@@ -5,6 +5,9 @@ export default function Compo() {
       <div>
         <h3>Harsh Dhande</h3>
         <p>Software Developer,Educator at Geekster </p>
+        <a link href="./https://github.com/HarshDhande2022">
+          GitHub
+        </a>
         <hr />
       </div>
       <div>
